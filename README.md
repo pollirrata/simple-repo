@@ -1,2 +1,2 @@
 # simple-repo
-DEV
+MAIN
